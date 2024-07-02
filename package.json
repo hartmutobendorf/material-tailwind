@@ -44,7 +44,7 @@
     "remark-gfm": "3.0.1",
     "remark-mdx": "2.3.0",
     "shiki": "0.11.1",
-    "tailwind-merge": "1.8.1",
+    "tailwind-merge": "1.14.0",
     "un": "0.0.0",
     "use-react-countries": "1.1.0",
     "uuid": "9.0.0"
